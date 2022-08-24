@@ -1,0 +1,28 @@
+//a = (0~2)//
+//b = [a, b, c]; c = [d, e, f]//
+B = <b>
+C = <c>
+//b;c//
+RESULT = <a>
+//a//
+
+akjsdaskdjaa
+sd
+a
+sdas
+d
+w
+as
+d
+w
+a
+sd
+
+ASDWAS
+D
+A
+SD
+
+WA
+S
+D

@@ -1,0 +1,42 @@
+B = a
+C = d
+B = b
+C = e
+B = c
+C = f
+RESULT = 0
+B = a
+C = d
+B = b
+C = e
+B = c
+C = f
+RESULT = 1
+B = a
+C = d
+B = b
+C = e
+B = c
+C = f
+RESULT = 2
+
+akjsdaskdjaa
+sd
+a
+sdas
+d
+w
+as
+d
+w
+a
+sd
+
+ASDWAS
+D
+A
+SD
+
+WA
+S
+D
